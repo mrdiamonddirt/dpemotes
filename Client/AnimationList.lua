@@ -1322,6 +1322,14 @@ DP.Emotes = {
         EmoteMoving = true,
         EmoteLoop = true,
    }},
+   ["eat-sandwich"] = {"mp_player_inteat@burger", "mp_player_int_eat_burger_fp", "Eat", AnimationOptions =
+   {
+        Prop = "prop_sandwich_01",
+        PropBone = 18905,
+        PropPlacement = {0.18, 0.029, 0.05, 180.0, 130.0},
+        EmoteMoving = true,
+        EmoteLoop = true,
+   }},
    ["reaching"] = {"move_m@intimidation@cop@unarmed", "idle", "Reaching", AnimationOptions =
    {
        EmoteLoop = true,
